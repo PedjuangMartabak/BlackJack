@@ -1,6 +1,6 @@
 nama, instansi, waktu, tempat, tujuan, status
-agus, polman, 2025-01-01 17:30:00, cilaki,	ngopi, sudah
+agus, polman, 2025-01-01 17:30:00, cilaki, ngopi, sudah
 james, poltekes, 2025-02-18 10:00:00, aceh, bukber, berjalan
-japar, itb, 2025-05-10 19:00:00,	ganesha, belajar, belum
+japar, itb, 2025-05-10 19:00:00, ganesha, belajar, belum
 Grzegorz, unpas, 2026-10-19 21:00:00, braga, healing, belum
-raka, poltekes, 2019-10-21 10:00:00, cimindi,	diskusi, sudah
+raka, poltekes, 2019-10-21 10:00:00, cimindi, diskusi, sudah
