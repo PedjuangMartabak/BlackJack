@@ -1,5 +1,6 @@
-agus polman 19.45 cilaki	ngopi sudah
-james poltekes 17.00 aceh bukber berjalan
-japar itb 10.00	ganesha belajar belum
-Grzegorz unpas 19.00 braga healing belum
-raka poltekes 20.00 cimindi	diskusi sudah
+nama, instansi, waktu, tempat, tujuan, status
+agus, polman, 2025-01-01 17:30:00, cilaki,	ngopi, sudah
+james, poltekes, 2025-02-18 10:00:00, aceh, bukber, berjalan
+japar, itb, 2025-05-10 19:00:00,	ganesha, belajar, belum
+Grzegorz, unpas, 2026-10-19 21:00:00, braga, healing, belum
+raka, poltekes, 2019-10-21 10:00:00, cimindi,	diskusi, sudah
