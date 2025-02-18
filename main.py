@@ -24,6 +24,7 @@ def main():
             while True:
                 print("orang gila")
                 #masukkan cuy tambahkan nama,instansi,waktu,tempat,tentang
+                addMeeting()
                 sub_choice = input("Apakah Anda ingin menambahkan meeting lagi? (y/n): ")
                 if sub_choice.lower() == 'n':
                     break
@@ -52,6 +53,17 @@ def main():
                 exit()
         else:
             print("invalid syntax")
+
+def addMeeting():
+    with open("data.txt", "a") as file:
+        nama = input("Masukkan nama: ")
+        instansi = input("Masukkan instansi: ")
+        waktu = input("Masukkan waktu (YYYY-MM-DD HH:MM:SS): ")
+        tempat = input("Masukkan tempat: ")
+        tujuan = input("Masukkan tujuan: ")
+        status = input("Masukkan status: ")
+        file.write(f"{nama}, {instansi}, {waktu}, {tempat}, {tujuan}, {status}\n")
+        print("Jadwal meeting berhasil ditambahkan.")
 
 def callData(): # show data
 
