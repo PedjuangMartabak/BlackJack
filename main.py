@@ -67,8 +67,6 @@ def main():
         choice = input("Pilih menu: ")
         if choice == '1':
             while True:
-                print("orang gila")
-                #masukkan cuy tambahkan nama,instansi,waktu,tempat,tentang
                 addMeeting()
                 sub_choice = input("Apakah Anda ingin menambahkan meeting lagi? (y/n): ")
                 if sub_choice.lower() == 'n':
@@ -117,5 +115,4 @@ def callData(): # show data
 
 if __name__ == '__main__':
     main()
-    
     
